@@ -1,0 +1,13 @@
+{
+    "name": "com.stickystonestudio.bunny83simplejson",
+    "version": "1.12.0",
+    "displayName": "Simple JSON",
+    "description": "A simple JSON parser in C# as Unity package. Forked from https://github.com/Bunny83/SimpleJSON/",
+    "unity": "2019.1",
+    "keywords": ["json", "parser"],
+    
+    "author": {
+        "name": "StickyStoneStudio GmbH",
+        "url": "https://www.stickystonestudio.de"
+    }
+}

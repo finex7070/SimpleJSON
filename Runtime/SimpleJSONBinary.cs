@@ -41,7 +41,7 @@
  * * * * */
 using System;
 
-namespace SimpleJSON
+namespace Bunny83SimpleJSON
 {
 #if !SimpleJSON_ExcludeBinary
     public abstract partial class JSONNode
